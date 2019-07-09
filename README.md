@@ -1,5 +1,5 @@
 # IOTA x AKITA
-![alt text] https://raw.githubusercontent.com/akitablock/IOTA/master/AKITA%20banner.png
+![alt text](https://raw.githubusercontent.com/akitablock/IOTA/master/AKITA%20banner.png)
 This Repository includes step by step instrcuctions for setting up IOTA requirements on your machine (Javascript).<br>
 For now it will cover:
 - creating seeds

@@ -68,3 +68,14 @@ https://nodes.devnet.thetangle.org:443
 <br>
 MainNet:
 https://nodes.thetangle.org:443
+
+# Example Messages
+These are 2 example messages with the same seed and address but different tx hashes on the DevNet and MainNet each.
+
+DevNet sample tx:<br>
+https://devnet.thetangle.org/transaction/TUATAPZ9NXDCQCWWRLTIDQMFYVICDUWRFMOIPGPORDB9YBTJTUUBTCGUADXZYLEUZAE9LJ9VSVSQZ9999
+![alt text](https://github.com/akitablock/IOTA/blob/master/IOTA%20sample%20JSON%20message%20DevNet.png)
+
+MainNet sample tx:<br>
+https://thetangle.org/transaction/UPYHPKFILLCQQUSPRLRDUNNEGGNGPTTFGSKYJBTWTTNPTZCHQXQFOZIQPZGIAGN9TPHILDZZASKI99999
+![alt text](https://raw.githubusercontent.com/akitablock/IOTA/master/IOTA%20sample%20JSON%20message%20MainNet.png)

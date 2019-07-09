@@ -48,7 +48,7 @@ Now you should be good to go and run the following programs:
 First of all you need a seed (your private password that you should never share!)
 Run the program and create your seed for the following program
 
-# iotaAdress.js
+# iotaAddress.js
 generate an address
 
 # iotaMessageJSON.js

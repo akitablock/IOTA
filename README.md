@@ -3,7 +3,7 @@
 This Repository includes step by step instrcuctions for setting up IOTA requirements on your machine (Javascript).<br>
 For now it will cover:
 - creating seeds
-- enerating addresses
+- generating addresses
 - connecting to the MainNet/ DevNet
 - saving messages in JSON format with 0 value tx 
 

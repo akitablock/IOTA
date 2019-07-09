@@ -1,6 +1,10 @@
 # IOTA
-This Repository includes step by step instrcuctions for setting up IOTA on your machine (Javascript).
-For now it will cover creating seeds, generating addresses, connecting to the MainNet/ DevNet, saving messages in JSON format with 0 value tx. 
+This Repository includes step by step instrcuctions for setting up IOTA requirements on your machine (Javascript).<br>
+For now it will cover:
+- creating seeds
+- enerating addresses
+- connecting to the MainNet/ DevNet
+- saving messages in JSON format with 0 value tx 
 
 # Prerequisites
 Before you start with any IOTA project you need to have the follwing components on your machine:

@@ -58,9 +58,9 @@ generate an address
 send public 0 value transactions to the Tangle and save data in JSON Format in the Message field
 
 # Explorer
-Find and verify your messages on the respective explorer
+Find and verify your messages on the respective explorer<br>
 DevNet:
 https://nodes.devnet.thetangle.org:443
-
+<br>
 MainNet:
 https://nodes.thetangle.org:443

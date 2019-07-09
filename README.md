@@ -74,7 +74,7 @@ These are 2 example messages with the same seed and address but different tx has
 
 DevNet sample tx:<br>
 https://devnet.thetangle.org/transaction/TUATAPZ9NXDCQCWWRLTIDQMFYVICDUWRFMOIPGPORDB9YBTJTUUBTCGUADXZYLEUZAE9LJ9VSVSQZ9999
-![alt text](https://github.com/akitablock/IOTA/blob/master/IOTA%20sample%20JSON%20message%20DevNet.png)
+![alt text](https://raw.githubusercontent.com/akitablock/IOTA/master/IOTA%20sample%20JSON%20message%20DevNet.png)
 
 MainNet sample tx:<br>
 https://thetangle.org/transaction/UPYHPKFILLCQQUSPRLRDUNNEGGNGPTTFGSKYJBTWTTNPTZCHQXQFOZIQPZGIAGN9TPHILDZZASKI99999

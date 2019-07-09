@@ -17,8 +17,8 @@ node -v
 ```
 npm -v
 ```
-If you dont have node.js install from the here for example (npm comes with Node.js):
-https://nodejs.org/en/download/
+If you dont have node.js install from the here for example (npm comes with Node.js):<br>
+https://nodejs.org/en/download
 
 # IOTA library
 Install the IOTA JavaScript client library with npm:
@@ -52,10 +52,10 @@ cat /dev/urandom |LC_ALL=C tr -dc 'A-Z9' | fold -w 81 | head -n 1
 ```
 
 # iotaAddress.js
-generate an address
+generate one or more addresses for your seed
 
 # iotaMessageJSON.js
-send public 0 value transactions to the Tangle and save data in JSON Format in the Message field
+send public 0 value transactions and save data in JSON Format in the Message field on the Tangle
 
 # Explorer
 Find and verify your messages on the respective explorer<br>

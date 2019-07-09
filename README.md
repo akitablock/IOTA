@@ -56,3 +56,11 @@ generate an address
 
 # iotaMessageJSON.js
 send public 0 value transactions to the Tangle and save data in JSON Format in the Message field
+
+# Explorer
+Find and verify your messages on the respective explorer
+DevNet:
+https://nodes.devnet.thetangle.org:443
+
+MainNet:
+https://nodes.thetangle.org:443

@@ -44,9 +44,12 @@ iota.getNodeInfo()
     
 Now you should be good to go and run the following programs: 
 
-# iotaSeed.js
+# iotaSeed
 First of all you need a seed (your private password that you should never share!)
-Run the program and create your seed for the following program
+Run this in terminal to create your seed:
+```
+cat /dev/urandom |LC_ALL=C tr -dc 'A-Z9' | fold -w 81 | head -n 1
+```
 
 # iotaAddress.js
 generate an address

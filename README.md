@@ -6,13 +6,13 @@ For now it will cover creating seeds, generating addresses, connecting to the Ma
 Before you start with any IOTA project you need to have the follwing components on your machine:
 - Node.js
 - npm
-- IOTA library ()
+- IOTA library (Javascript)
 
 Check if you have Node.js and npm installed and if yes which version you have installed.
 Type into terminal:
-'''
+```
 node -v
-'''
-'''
+```
+```
 npm -v
-'''
+```
